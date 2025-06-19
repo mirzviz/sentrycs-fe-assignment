@@ -1,4 +1,3 @@
-# React + Vite
 
 Sentrycs home ass:
 1. MyActionListener.js - custom event listener.
